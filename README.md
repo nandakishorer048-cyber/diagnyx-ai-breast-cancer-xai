@@ -22,6 +22,24 @@ Python, TensorFlow, Keras, EfficientNetB0, Grad-CAM, OpenCV, Pandas, NumPy and G
 
 ### Dataset
 
+## How It Works
+
+```text
+Mammogram Image
+       ↓
+Image Preprocessing
+       ↓
+EfficientNetB0
+       ↓
+AI Classification
+       ↓
+Benign / Malignant Prediction
+       ↓
+Grad-CAM Explainability
+       ↓
+Highlighted Region
+       ↓
+AI-Assisted Clinical Review
 ## Demo
 
 ### Grad-CAM Explainability
