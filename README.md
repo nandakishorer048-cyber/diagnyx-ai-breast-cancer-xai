@@ -22,6 +22,14 @@ Python, TensorFlow, Keras, EfficientNetB0, Grad-CAM, OpenCV, Pandas, NumPy and G
 
 ### Dataset
 
+## Demo
+
+### Grad-CAM Explainability
+
+The system provides an AI-assisted prediction together with a Grad-CAM visualization highlighting the image regions that influenced the model's prediction.
+
+![Diagnyx AI Grad-CAM Result](gradcamresult.png)
+
 The prototype uses the CBIS-DDSM mammography dataset. The dataset itself is not included in this repository.
 
 ### Disclaimer
