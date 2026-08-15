@@ -1,6 +1,6 @@
 # diagnyx-ai-breast-cancer-xai
 Explainable AI prototype for breast cancer screening using EfficientNetB0 and Grad-CAM.
-%%writefile README.md
+Explainable AI prototype for breast cancer screening using EfficientNetB0 and Grad-CAM.
 # Diagnyx AI
 
 ## Explainable AI for Breast Cancer Screening
